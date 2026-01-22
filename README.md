@@ -19,5 +19,12 @@
 ##
 
 ### Description:
-This is my second projet on my way learning JavaScript! <br>
+This is my second projet on my way learning JavaScript!
 This project consists in basically a BlackJack game, with its main features.
+<video src="https://github.com/user-attachments/assets/14c139f6-2451-4e55-9c38-623cbcbcff83" controls loop muted style="max-width: 100%;">
+  Seu navegador não suporta vídeos incorporados.
+</video>
+
+
+
+
